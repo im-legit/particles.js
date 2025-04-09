@@ -1,0 +1,3 @@
+    <script src="https://raw.githubusercontent.com/im-legit/particles.js/refs/heads/main/particles.js"></script>
+    <div id="tsparticles" class="-z-50 absolute"></div>
+    <script src="https://raw.githubusercontent.com/im-legit/particles.js/refs/heads/main/particles-config.js"></script>
